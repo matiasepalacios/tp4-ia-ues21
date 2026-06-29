@@ -1,0 +1,6 @@
+# Salidas generadas por los scripts
+hough/salidas/
+# Cache de Python
+__pycache__/
+*.pyc
+.DS_Store
